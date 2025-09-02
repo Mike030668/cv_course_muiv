@@ -48,3 +48,14 @@ solutions_release/
 # Local configs
 *.local.json
 *.config.yaml
+
+
+# Cloud artifacts
+*.tmp
+*.bak
+*.sync-conflict-*
+~$*
+
+# OS-specific
+.DS_Store
+Thumbs.db

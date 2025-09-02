@@ -6,6 +6,12 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Do-not-commit solved notebooks
+*_*done.ipynb
+*_solutions.ipynb
+solutions/
+solutions_release/
+
 # Jupyter
 .ipynb_checkpoints/
 *.nbconvert.ipynb
@@ -59,3 +65,5 @@ solutions_release/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+

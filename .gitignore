@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Environments
+.env
+.venv
+*.swp
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & outputs
+data/
+datasets/*
+!datasets/README.md
+solutions/
+solutions_release/
+
+# Cloud sync (Google Drive, OneDrive, etc.)
+*.gdoc
+*.gsheet
+*.gslides
+*.tmp
+*.bak
+
+# Reports / exports
+*.pdf
+*.docx
+*.xlsx
+
+# Logs
+*.log
+
+# Local configs
+*.local.json
+*.config.yaml

@@ -1,0 +1,17 @@
+name: cv_course
+channels: [conda-forge, pytorch]
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - scikit-image
+  - scikit-learn
+  - opencv
+  - jupyterlab
+  - pip
+  - pytorch
+  - torchvision
+  - pip:
+      - nbmake
+      - pytest

@@ -47,6 +47,7 @@ solutions_release/
 *.pdf
 *.docx
 *.xlsx
+*.pptx
 
 # Logs
 *.log

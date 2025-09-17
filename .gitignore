@@ -30,7 +30,7 @@ solutions_release/
 Thumbs.db
 
 # Data & outputs
-data/
+#data/
 datasets/*
 !datasets/README.md
 solutions/

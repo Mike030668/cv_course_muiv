@@ -67,4 +67,5 @@ solutions_release/
 .DS_Store
 Thumbs.db
 
-
+# checkpoints
+.pt

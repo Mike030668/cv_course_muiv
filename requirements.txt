@@ -6,7 +6,7 @@ matplotlib
 scipy
 #tensorflow
 #tf-nightly-gpu
-keras
+#keras
 Pillow
 opencv-python 
 opencv-python-headless
@@ -14,3 +14,9 @@ face_recognition
 annoy
 torchvision
 svgwrite
+torchinfo
+ipywidgets
+torchview
+graphviz
+umap-learn
+seaborn

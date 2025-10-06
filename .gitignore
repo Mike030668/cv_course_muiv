@@ -68,4 +68,6 @@ solutions_release/
 Thumbs.db
 
 # checkpoints
-.pt
+checkpoints/
+*.pt
+

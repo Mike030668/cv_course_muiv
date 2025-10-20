@@ -20,3 +20,4 @@ torchview
 graphviz
 umap-learn
 seaborn
+ultralytics

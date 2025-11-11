@@ -48,6 +48,9 @@ solutions_release/
 *.docx
 *.xlsx
 *.pptx
+*.mp4
+*.avi
+*.mov
 
 # Logs
 *.log

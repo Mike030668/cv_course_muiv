@@ -21,3 +21,7 @@ graphviz
 umap-learn
 seaborn
 ultralytics
+gdown
+imageio
+imageio-ffmpeg
+ffmpeg 

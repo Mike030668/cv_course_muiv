@@ -11,6 +11,8 @@ __pycache__/
 *_solutions.ipynb
 solutions/
 solutions_release/
+exams/answ_questions.md
+preparing_material
 
 # Jupyter
 .ipynb_checkpoints/

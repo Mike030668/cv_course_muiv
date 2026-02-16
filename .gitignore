@@ -77,3 +77,4 @@ checkpoints/
 *.pt
 
 .control/
+materials/
